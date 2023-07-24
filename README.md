@@ -12,4 +12,4 @@ Para entender as tabelas e como elas se relacionam, você deve primeiro executar
 
 Após a Análise você deve executar o colab Banco_ROX. Neste colab você vai encontrara todas as funções necessárias para criar o banco, criar, popular, alterar e consultar as tabelas. Todas as consultas exigidas estão nesse colab.
 
-Após a inserção dos dados no banco, fiz o download do DBeaver, conectei no banco criado e fiz as mesmas consultas.
+Após a inserção dos dados no banco, fiz o download do DBeaver, conectei no banco criado, fiz as mesmas consultas e exportei para csv.
